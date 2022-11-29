@@ -38,8 +38,5 @@ The app is the result of an interview exercise (done on codility.com), by the wa
 Clone the repository:
 
 ```
-git clone https://github.com/nicolacaferra/architecture_sample_currency_converter.git
+git clone https://github.com/mukeshkumar7470/currency-converter-MVVM.git
 ```
-
-## The app 
-![App sample](https://nicolacaferra.dev/assets/images/2022/app_in_action.gif)
